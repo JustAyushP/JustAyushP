@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a first year Computer Science Student at the University of Waterloo<br>I'm interested in Software Engineering, Problem Solving and Mathematics<br>
+I'm a Computer Science Student at the University of Waterloo<br>I'm interested in Software Engineering, Problem Solving and Mathematics<br>
 
 
 ## 🌐 Socials:
